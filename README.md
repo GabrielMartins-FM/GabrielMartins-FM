@@ -1,66 +1,34 @@
-# 👨‍💻 Gabriel Martins
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Gabriel%20Martins&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e3a8a,100:2563eb&height=230&section=header&text=GABRIEL%20MARTINS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Backend+%7C+Frontend+%7C+Banco+de+Dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80"/>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-🎓 Estudante de **Desenvolvimento de Sistemas no SENAI**
-
-💻 Atualmente estudando e desenvolvendo conhecimentos em:
-
-- 🌐 Frontend
-- ⚙️ Backend
-- 🗄️ Banco de Dados
-- 🧱 HTML
-- 🐘 PHP
-- 📊 Mermaid
-- 🔧 Git e GitHub
-
-> 💡 Meu objetivo é evoluir constantemente como desenvolvedor, colocando em prática o que aprendo através de projetos e experiências.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=750&lines=%3E+SYSTEM+ONLINE...;%3E+Desenvolvedor+em+forma%C3%A7%C3%A3o;%3E+Estudante+de+Desenvolvimento+de+Sistemas;%3E+Frontend+%7C+Backend+%7C+Database;%3E+PHP+%7C+HTML+%7C+Mermaid;%3E+Building+my+future+one+project+at+a+time..."/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Frontend-1E3A8A?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database-0F172A?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SENAI-DEVELOPMENT-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-0F172A?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📚 O que estou estudando
+# `01 // ABOUT ME`
 
 ```text
-Frontend
-████████████████░░░░  HTML • CSS • JavaScript
-
-Backend
-██████████████░░░░░░  PHP
-
-Banco de Dados
-████████████░░░░░░░░  SQL • Modelagem
-
-Ferramentas
-██████████████░░░░░░  Git • GitHub • VS Code
-
-Diagramas
-███████████░░░░░░░░░  Mermaid
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   👨‍💻 GABRIEL MARTINS                                       │
+│                                                              │
+│   > Desenvolvedor em formação                               │
+│   > Estudante de Desenvolvimento de Sistemas no SENAI       │
+│   > Explorando o universo do desenvolvimento                │
+│                                                              │
+│   Atualmente estudando:                                     │
+│                                                              │
+│   [ FRONTEND ]     [ BACKEND ]      [ DATABASE ]             │
+│   [ HTML ]         [ PHP ]          [ SQL ]                  │
+│   [ MERMAID ]      [ GIT ]          [ GITHUB ]               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
